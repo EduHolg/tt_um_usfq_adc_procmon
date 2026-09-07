@@ -13,7 +13,7 @@ project:
   clock_hz: 100000000
 
   # Both designs are integrated in the same Tiny Tapeout macro
-  tiles: "2x2"
+  tiles: "1x2"
 
   # Analog pins used by the ADC
   analog_pins: 2
